@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, World! ⭐ 
 
-<!--
-**pamelanunescampos/pamelanunescampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Transformando linhas de código em soluções reais
 
-Here are some ideas to get you started:
+Sou **estudante de Análise e Desenvolvimento de Sistemas** e vivo uma paixão diária por tecnologia: aprender, construir, errar, corrigir e evoluir. Cada projeto aqui é um passo na minha jornada para me tornar um profissional de TI de alto nível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Estou em busca da minha primeira oportunidade na área de Tecnologia da Informação**, onde eu possa somar com energia, curiosidade e vontade de crescer junto com um time.
+
+---
+
+### 💡 O que você encontra por aqui
+- 💻 Projetos práticos em **C**, **HTML**, **CSS** e **JavaScript**
+- 📚 Código documentado, organizado e em constante melhoria
+- 🔥 Evolução real: cada commit é um aprendizado
+
+### 🤝 Vamos conversar?
+- 💼 LinkedIn: https://www.linkedin.com/in/pamela-nunes-de-campos-52141039a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- 📧 E-mail: pamela.nunescde@gmail.com
